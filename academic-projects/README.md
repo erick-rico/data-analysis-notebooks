@@ -1,6 +1,6 @@
 # Academic Projects 📚
 
-This folder contains notebooks developed as coursework projects during my studies at **UNAM** (Mexico) and **Tampere University** (Finland).  
+This folder contains notebooks developed as coursework projects during my studies at **Tampere University (TUNI)**, in Finland, and **National Autonomous University of Mexico (UNAM)** in Mexico  
 
 Future work from **City University of Hong Kong (CityU)** will also be added here with the suffix `-cityu`.
 
