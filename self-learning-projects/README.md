@@ -1,6 +1,7 @@
 # Self-Learning Projects 🧪
 
 This folder contains **11 days of practice (August 2025)** using open datasets from Kaggle.  
+
 Each subfolder corresponds to a dataset/topic, containing multiple notebooks (`pday...`), generated files, and visualizations.
 
 > ⚠️ **Disclaimer:**  
@@ -25,15 +26,15 @@ Each subfolder corresponds to a dataset/topic, containing multiple notebooks (`p
 
 | Practice Day | Notebook | Topic / Focus |
 |--------------|----------|---------------|
-| Day 1–2 | `pday1and2_exploration.ipynb` | Initial data inspection & cleaning |
-| Day 3 | `pday3_visualization.ipynb` | Data visualization (Matplotlib) |
-| Day 4–5 | `pday4and5_aggregation_resampling.ipynb` | Time series resampling & aggregation |
-| Day 6 | `pday6_geo_visualization.ipynb` | Geospatial visualization (Plotly) |
-| Day 7 | `pday7_numpy_air_quality.ipynb` | Vectorized operations with NumPy |
-| Day 8 | `pday8_seaborn_air_quality.ipynb` | Seaborn visualizations (air quality) |
-| Day 9 | `pday9_plotly_power_plants.ipynb` | Plotly interactive visualization |
-| Day 10 | `pday10_t_test_energy.ipynb` | Hypothesis testing & visualization |
-| Day 11 | `pday11_regression_recap.ipynb` | Regression recap (linear model) |
+| Day 1–2 | [`pday1and2_exploration.ipynb`](./air-quality-in-beijing/pday1and2_exploration.ipynb) | Initial data inspection & cleaning |
+| Day 3 | [`pday3_visualization.ipynb`](./air-quality-in-beijing/pday3_visualization.ipynb) | Data visualization (Matplotlib) |
+| Day 4–5 | [`pday4and5_aggregation_resampling.ipynb`](./hourly-energy-consumption/pday4and5_aggregation_resampling.ipynb) | Time series resampling & aggregation |
+| Day 6 | [`pday6_geo_visualization.ipynb`](./global-power-plant/pday6_geo_visualization.ipynb) | Geospatial visualization (Plotly) |
+| Day 7 | [`pday7_numpy_air_quality.ipynb`](./air-quality-in-beijing/pday7_numpy_air_quality.ipynb) | Vectorized operations with NumPy |
+| Day 8 | [`pday8_seaborn_air_quality.ipynb`](./global-air-quality/pday8_seaborn_air_quality.ipynb) | Seaborn visualizations (air quality) |
+| Day 9 | [`pday9_plotly_power_plants.ipynb`](./global-power-plant/pday9_plotly_power_plants.ipynb) | Plotly interactive visualization |
+| Day 10 | [`pday10_t_test_energy.ipynb`](./hourly-energy-consumption/pday10_t_test_energy.ipynb) | Hypothesis testing & visualization |
+| Day 11 | [`pday11_regression_recap.ipynb`](./global-power-plant/pday11_regression_recap.ipynb) | Regression recap (linear model) |
 
 ---
 
