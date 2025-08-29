@@ -40,24 +40,19 @@ Each subfolder corresponds to a dataset/topic, containing multiple notebooks (`p
 
 ## 📑 Datasets and Generated Files
 
-### `air-quality-in-beijing/`
-- **Original dataset:** `data-pm2.5.csv`  
-- **Generated:** `clean_df.csv` (Day 2), `smoothed_pm2.5_temperature.png` (Day 3)
-
-### `global-air-quality/`
-- **Original dataset:** `global_air_quality_data_10000.csv`
-
-### `global-power-plant/`
-- **Original dataset:** `global_power_plant_database.csv`  
-- **Generated:** `scatter_map.png` (Day 6)
-
-### `hourly-energy-consumption/`
-- **Original dataset:** `PJME_hourly.csv`  
-- **Generated:**  
-  - `avg_monthly_energy_consumption.png` (Day 4)  
-  - `smoothed_avg_daily_energy_consumption.png` (Day 4)  
-  - `avg_yearly_energy_consumption.png` (Day 5)  
-  - `smoothed_avg_weekly_energy_consumption.png` (Day 5)
+| Folder | File | Type | Notes |
+|--------|------|------|-------|
+| `air-quality-in-beijing/` | [`data-pm2.5.csv`](./air-quality-in-beijing/data-pm2.5.csv) | Original dataset | Raw air quality data |
+| `air-quality-in-beijing/` | [`clean_df.csv`](./air-quality-in-beijing/clean_df.csv) | Generated CSV | Cleaned dataset (Day 2) |
+| `air-quality-in-beijing/` | [`smoothed_pm2.5_temperature.png`](./air-quality-in-beijing/smoothed_pm2.5_temperature.png) | Generated image | Smoothed PM2.5 vs. temperature (Day 3) |
+| `global-air-quality/` | [`global_air_quality_data_10000.csv`](./global-air-quality/global_air_quality_data_10000.csv) | Original dataset | Global air quality sample |
+| `global-power-plant/` | [`global_power_plant_database.csv`](./global-power-plant/global_power_plant_database.csv) | Original dataset | Global power plant database |
+| `global-power-plant/` | [`scatter_map.png`](./global-power-plant/scatter_map.png) | Generated image | Geo-visualization (Day 6) |
+| `hourly-energy-consumption/` | [`PJME_hourly.csv`](./hourly-energy-consumption/PJME_hourly.csv) | Original dataset | PJM East hourly energy consumption |
+| `hourly-energy-consumption/` | [`avg_monthly_energy_consumption.png`](./hourly-energy-consumption/avg_monthly_energy_consumption.png) | Generated image | Monthly averages (Day 4) |
+| `hourly-energy-consumption/` | [`smoothed_avg_daily_energy_consumption.png`](./hourly-energy-consumption/smoothed_avg_daily_energy_consumption.png) | Generated image | Smoothed daily averages (Day 4) |
+| `hourly-energy-consumption/` | [`avg_yearly_energy_consumption.png`](./hourly-energy-consumption/avg_yearly_energy_consumption.png) | Generated image | Yearly averages (Day 5) |
+| `hourly-energy-consumption/` | [`smoothed_avg_weekly_energy_consumption.png`](./hourly-energy-consumption/smoothed_avg_weekly_energy_consumption.png) | Generated image | Smoothed weekly averages (Day 5) |
 
 ---
 
