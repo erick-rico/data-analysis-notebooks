@@ -15,9 +15,9 @@ data-analysis-notebooks/
 
 ## 📚 Academic Projects
 
-See [`academic-projects/`](./academic-projects/README.md).  
-Projects labeled with:
+See [`academic-projects/`](./academic-projects/README.md).
 
+Projects labeled with:
 - **`-tuni`** → developed at **Tampere University (Finland)**, with PDF reports. The datasets used for these projects were sourced from official public/governmental repositories in Mexico City and New York City. For full source details, see the references section in each associated PDF report.  
 - **`-unam`** → coursework project at **National Autonomous University of Mexico (UNAM)** (Mexico), contains Spanish commentary in both code (`#`) and markdown cells, and some dataset column names and labels are also in Spanish. However, the structure and logic of the code remain accessible regardless of language. The dataset used in this notebook was provided directly by course instructors for learning purposes only.
 - **`-cityu`** (future) → will represent projects from **City University of Hong Kong**.
@@ -26,17 +26,24 @@ Projects labeled with:
 
 ## 🧪 Self-Learning Projects
 
-See [`self-learning-projects/`](./self-learning-projects/README.md).  
-These projects represent **11 days of practice (August 2025)** using open datasets,covering topics like air quality, power plants, and energy consumption. Contains Spanish commentary mostly in markdown, with some elementsin English. However, the structure and logic of the code remain accessible regardless of language. Datasets used for this practice were obtained from **Kaggle** (see [self-learning-projects/](./self-learning-projects/README.md) for dataset sources).
+See [`self-learning-projects/`](./self-learning-projects/README.md).
+
+- These projects represent **11 days of practice (August 2025)** using open datasets,covering topics like air quality, power plants, and energy consumption.
+- Contains Spanish commentary mostly in markdown, with some elementsin English. However, the structure and logic of the code remain accessible regardless of language.
+- Datasets used for this practice were obtained from **Kaggle** (see [self-learning-projects/](./self-learning-projects/README.md) for dataset sources).
 
 ---
 
 ## ⚠️ Disclaimer
 
 These notebooks are **learning material only** and were created as part of coursework and personal learning efforts. They are not intended to be definitive, professionally reviewed, or error-free. Please do not treat the findings or analyses as absolute truths — their primary purpose is to demonstrate learning progress and practical application of Python for data analysis. 
-Datasets belong to their original sources; this repository only uses them for **educational purposes**.
-Each notebook includes author information (name, practice day, creation date).  
-Generated images do not include this metadata.
+
+Besides:
+  
+- Datasets belong to their original sources; this repository only uses them for **educational purposes**.
+- Each notebook includes author information (name, practice day, creation date).
+- Generated images do not include this metadata.
+
 You are welcome to explore and learn from them.
 
 ---
